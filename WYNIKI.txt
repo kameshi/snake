@@ -1,0 +1,10 @@
+fpoo	13
+fpoo	11
+q	11
+fpoo	10
+kameshi	10
+f	9
+mmateuszak	5
+f	102
+p	4
+p	3

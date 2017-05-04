@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1464605852 source:c:\users\kameshi\desktop\programy\snake\snake2\funkcje pomocnicze.c
+	"snake.h"
+
+1464630628 c:\users\kameshi\desktop\programy\snake\snake2\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<stdbool.h>
+
+1464600815 source:c:\users\kameshi\desktop\programy\snake\snake2\main.c
+	"snake.h"
+
+1464618283 source:c:\users\kameshi\desktop\programy\snake\snake2\menu.c
+	"snake.h"
+
+1464606041 source:c:\users\kameshi\desktop\programy\snake\snake2\bitmapy_czcionki_dzwieki.c
+	"snake.h"
+
+1464606285 source:c:\users\kameshi\desktop\programy\snake\snake2\obsluga_plikow.c
+	"snake.h"
+
+1464606748 source:c:\users\kameshi\desktop\programy\snake\snake2\punkty.c
+	"snake.h"
+
+1464517349 source:c:\users\kameshi\desktop\programy\snake\snake2\ruch_wezem.c
+	"snake.h"
+
+1464618283 source:c:\users\kameshi\desktop\programy\snake\snake2\wprowadzenie_wypisanie_nicku.c
+	"snake.h"
+
+1464605821 source:c:\users\kameshi\desktop\programy\snake\snake2\cia³o_weza.c
+	"snake.h"
+
+1464617744 source:c:\users\kameshi\desktop\programy\snake\snake2\gra.c
+	"snake.h"
+
+1464606751 source:c:\users\kameshi\desktop\programy\snake\snake2\cialo_weza.c
+	"snake.h"
+
+1464606688 source:c:\users\kameshi\desktop\programy\snake\snake2\funkcje_pomocnicze.c
+	"snake.h"
+
+1464606041 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\bitmapy_czcionki_dzwieki.c
+	"snake.h"
+
+1464630628 c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<stdbool.h>
+
+1464606751 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\cialo_weza.c
+	"snake.h"
+
+1464606688 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\funkcje_pomocnicze.c
+	"snake.h"
+
+1464629376 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\main.c
+	"snake.h"
+
+1464618283 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\menu.c
+	"snake.h"
+
+1464606285 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\obsluga_plikow.c
+	"snake.h"
+
+1464606748 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\punkty.c
+	"snake.h"
+
+1464618283 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\wprowadzenie_wypisanie_nicku.c
+	"snake.h"
+
+1464630846 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\gra.c
+	"snake.h"
+
+1464609641 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\bitmapy_czcionki_dzwieki.c
+	"snake.h"
+
+1464799724 c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<stdbool.h>
+
+1464610351 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\cialo_weza.c
+	"snake.h"
+
+1464610288 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\funkcje_pomocnicze.c
+	"snake.h"
+
+1464632976 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\main.c
+	"snake.h"
+
+1464621883 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\menu.c
+	"snake.h"
+
+1464609885 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\obsluga_plikow.c
+	"snake.h"
+
+1464610348 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\punkty.c
+	"snake.h"
+
+1464621883 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\wprowadzenie_wypisanie_nicku.c
+	"snake.h"
+
+1464799731 source:c:\users\mateusz\documents\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\gra.c
+	"snake.h"
+
+1464606041 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\bitmapy_czcionki_dzwieki.c
+	"snake.h"
+
+1464796124 c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<stdbool.h>
+
+1464606751 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\cialo_weza.c
+	"snake.h"
+
+1464606688 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\funkcje_pomocnicze.c
+	"snake.h"
+
+1464804303 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\gra.c
+	"snake.h"
+
+1464629376 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\main.c
+	"snake.h"
+
+1464618283 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\menu.c
+	"snake.h"
+
+1464606285 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\obsluga_plikow.c
+	"snake.h"
+
+1464803489 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\punkty.c
+	"snake.h"
+
+1464618283 source:c:\users\kameshi\downloads\pp2.pro.1id14a.made³a.maci¹g (2)\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\wprowadzenie_wypisanie_nicku.c
+	"snake.h"
+
+1464993119 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\bitmapy_czcionki_dzwieki.c
+	"snake.h"
+
+1464993119 c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<stdbool.h>
+
+1465238206 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\cialo_weza.c
+	"snake.h"
+
+1465234710 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\funkcje_pomocnicze.c
+	"snake.h"
+
+1465240725 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\gra.c
+	"snake.h"
+
+1464993119 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\main.c
+	"snake.h"
+
+1464993119 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\menu.c
+	"snake.h"
+
+1464993119 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\obsluga_plikow.c
+	"snake.h"
+
+1464993119 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\punkty.c
+	"snake.h"
+
+1464993119 source:c:\users\mateusz\desktop\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\wprowadzenie_wypisanie_nicku.c
+	"snake.h"
+
+1464993119 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\bitmapy_czcionki_dzwieki.c
+	"snake.h"
+
+1464993119 c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<stdbool.h>
+
+1465238206 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\cialo_weza.c
+	"snake.h"
+
+1465234710 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\funkcje_pomocnicze.c
+	"snake.h"
+
+1465240725 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\gra.c
+	"snake.h"
+
+1464993119 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\main.c
+	"snake.h"
+
+1464993119 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\menu.c
+	"snake.h"
+
+1464993119 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\obsluga_plikow.c
+	"snake.h"
+
+1464993119 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\punkty.c
+	"snake.h"
+
+1464993119 source:c:\users\marek\downloads\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g\pp2.pro.1id14a.made³a.maci¹g - program\snake2\wprowadzenie_wypisanie_nicku.c
+	"snake.h"
+
